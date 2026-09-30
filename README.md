@@ -6,6 +6,10 @@ PEPPOL / UBL XML invoices directly from Finder.
 Select a PEPPOL XML invoice in Finder and press **Space** to get a readable
 invoice preview instead of raw XML.
 
+## Preview
+
+![PEPPOL invoice preview in macOS Quick Look](screenshots/quicklook.png)
+
 ## Features
 
 - Quick Look preview for PEPPOL / UBL invoices
