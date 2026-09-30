@@ -10,6 +10,7 @@ invoice preview instead of raw XML.
 
 ![PEPPOL invoice preview in macOS Quick Look](screenshots/quicklook.png)
 
+
 ## Features
 
 - Quick Look preview for PEPPOL / UBL invoices
